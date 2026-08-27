@@ -1,8 +1,9 @@
-hello, gust regular text file.
-# AGENTS.txt
+# AGENTS.md
+## Add the next section into your AGENTS.MD file
+
+---
 # Security Section - Secure Working Agreement (Humans + Coding Agents)
 **Applies to:** every change in this repository (code, docs, CI, infra, data, models, configs)
-
 **Language:** “MUST/SHALL” are mandatory. “SHOULD” is strongly recommended. “MAY” is optional.
 
 ## 0) Summary
