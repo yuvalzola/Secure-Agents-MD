@@ -89,4 +89,4 @@ A change is “done” only if:
 - [ ] Errors/logging do not leak sensitive data
 - [ ] Limits/timeouts/rate controls exist where applicable
 - [ ] Tests added/updated for security-relevant behavior
-- [ ] make the LLM to security check, according to OWASP TOP 10
+- [ ] USE the LLM to conduct penetration testing, check if not higher/critical vulnerabilities appear
