@@ -1,5 +1,5 @@
 # AGENTS.md
-## Add the next section into your AGENTS.MD file
+### :smiley: Add the next section into your AGENTS.MD file
 
 ---
 # Security Section - Secure Working Agreement (Humans + Coding Agents)
